@@ -1,6 +1,6 @@
 {
   "azphalt": "0.1",
-  "id": "com.hereliesaz.layer.layer-camera-controller",
+  "id": "com.hereliesaz.azphalt.camera-controller",
   "name": "Camera Controller",
   "version": "1.0.0",
   "kind": "asset",
