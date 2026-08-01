@@ -6,6 +6,7 @@
   "kind": "asset",
   "license": "LicenseRef-Proprietary",
   "compat": ">=0.1",
+  "description": "Flies the virtual camera from straight-on to a raised three-quarter angle while stopping down from f/1.4 to f/5.6 — the background snaps into focus as it arrives.",
   "author": "HereLiesAz",
   "targetApps": [
     "com.hereliesaz.guillotine"
